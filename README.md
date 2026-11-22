@@ -1,3 +1,3 @@
 # pr-practice
 
-A friendly sandbox for learning Git and GitHub.
+A practice repo for branches, pull requests, and merge conflicts.
