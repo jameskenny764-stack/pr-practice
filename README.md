@@ -1,3 +1,3 @@
 # pr-practice
 
-A repository for practising Git branches and GitHub pull requests.
+A practice repo for branches, pull requests, and merge conflicts.
